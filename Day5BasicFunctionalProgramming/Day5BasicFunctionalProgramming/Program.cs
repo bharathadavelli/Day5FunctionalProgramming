@@ -7,7 +7,8 @@
             //Console.WriteLine("Welcome to Day5 Basic and Functional Programming");
             //Flipcoin.HeadsorTails();
             //Leapyear.IsLeapYear();
-            Powerof2.powersof2();
+            //Powerof2.powersof2();
+            HarmonicNumber.HarmonicofNumber();
         }
     }
 }
