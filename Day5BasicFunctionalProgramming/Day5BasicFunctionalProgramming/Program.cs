@@ -6,7 +6,8 @@
         {
             //Console.WriteLine("Welcome to Day5 Basic and Functional Programming");
             //Flipcoin.HeadsorTails();
-            Leapyear.IsLeapYear();
+            //Leapyear.IsLeapYear();
+            Powerof2.powersof2();
         }
     }
 }
