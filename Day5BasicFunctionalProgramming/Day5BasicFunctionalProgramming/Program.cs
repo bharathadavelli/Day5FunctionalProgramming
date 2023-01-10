@@ -9,7 +9,8 @@
             //Leapyear.IsLeapYear();
             //Powerof2.powersof2();
             //HarmonicNumber.HarmonicofNumber();
-            Factors.primefactors();
+            //Factors.primefactors();
+            QuotientAndRemainder.ComputeQuotientAndRemainder();
         }
     }
 }
