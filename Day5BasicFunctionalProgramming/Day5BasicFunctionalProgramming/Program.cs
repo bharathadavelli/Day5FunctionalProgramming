@@ -12,7 +12,8 @@
             //Factors.primefactors();
             //QuotientAndRemainder.ComputeQuotientAndRemainder();
             //SwapTwoNumbers.Swap();
-            EvenOrOdd.OddorEven();
+            //EvenOrOdd.OddorEven();
+            VowelOrConsonant.checkVowel();
         }
     }
 }
