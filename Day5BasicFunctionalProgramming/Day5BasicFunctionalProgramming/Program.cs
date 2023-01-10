@@ -11,7 +11,8 @@
             //HarmonicNumber.HarmonicofNumber();
             //Factors.primefactors();
             //QuotientAndRemainder.ComputeQuotientAndRemainder();
-            SwapTwoNumbers.Swap();
+            //SwapTwoNumbers.Swap();
+            EvenOrOdd.OddorEven();
         }
     }
 }
