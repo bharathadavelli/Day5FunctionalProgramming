@@ -13,7 +13,8 @@
             //QuotientAndRemainder.ComputeQuotientAndRemainder();
             //SwapTwoNumbers.Swap();
             //EvenOrOdd.OddorEven();
-            VowelOrConsonant.checkVowel();
+            //VowelOrConsonant.checkVowel();
+            LargestNumber.largestofthreenumbers();
         }
     }
 }
