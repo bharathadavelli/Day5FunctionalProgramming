@@ -10,7 +10,8 @@
             //Powerof2.powersof2();
             //HarmonicNumber.HarmonicofNumber();
             //Factors.primefactors();
-            QuotientAndRemainder.ComputeQuotientAndRemainder();
+            //QuotientAndRemainder.ComputeQuotientAndRemainder();
+            SwapTwoNumbers.Swap();
         }
     }
 }
